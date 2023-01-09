@@ -1,6 +1,6 @@
 # numpy . rint()–将 NumPy 数组元素舍入到最接近的整数
 
-> 原文:# t0]https://www . aspython . com/python-modules/num py/num py-rint
+> 原文:# t0]https://www . aspython . com/python-modules/num py/numpy-rint
 
 大家好！在本教程中，我们将学习 NumPy `**rint**`函数。该功能简单易懂，易于使用。让我们开始吧。
 

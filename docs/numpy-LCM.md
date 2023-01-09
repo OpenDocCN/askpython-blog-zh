@@ -1,6 +1,6 @@
 # NumPy LCM–返回两个数的最小公倍数
 
-> 原文:# t0]https://www . aspython . com/python-modules/num py/num py-LCM
+> 原文:# t0]https://www . aspython . com/python-modules/num py/numpy-LCM
 
 读者你好！欢迎来到另一个关于 NumPy 数学函数的教程。在本教程中，我们将通过例子详细研究 NumPy lcm 函数。
 

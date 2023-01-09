@@ -1,6 +1,6 @@
 # Numpy.kron():如何使用 Numpy 计算 Kronecker 积？
 
-> 原文:# t0]https://www . aspython . com/python-modules/num py/num py-crown
+> 原文:# t0]https://www . aspython . com/python-modules/num py/numpy-crown
 
 假设给我们一对矩阵，我们想以牺牲另一个矩阵为代价来转换一个矩阵。这意味着使用一个矩阵的元素来缩放另一个矩阵。实现这一点的数学过程被称为“Kronecker 积”, Python 中的 NumPy 库提供了一个独特的函数—*kron()。*
 

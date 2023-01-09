@@ -1,6 +1,6 @@
 # NumPy fmod()–返回除法运算的元素余数。
 
-> 原文:# t0]https://www . aspython . com/python-modules/num py/num py-fmod
+> 原文:# t0]https://www . aspython . com/python-modules/num py/numpy-fmod
 
 NumPy 是“数值 Python”的缩写，是一个主要用于数组和多维矩阵的基础包。这个开源包提供了广泛的函数来对数组或矩阵执行全面的数学运算。
 

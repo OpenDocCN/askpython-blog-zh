@@ -1,6 +1,6 @@
 # NumPy nancumprod–完整指南
 
-> 原文:1230【https://www . aspython . com/python-modules/num py/num py-nanumprod】
+> 原文:1230【https://www . aspython . com/python-modules/num py/numpy-nanumprod】
 
 大家好，欢迎来到这个关于 **Numpy nancumprod** 的教程。在我们之前的教程中，我们学习了 [NumPy cumprod](https://www.askpython.com/python-modules/numpy/numpy-cumprod) 。在本教程中，我们将学习 **NumPy nancumprod()** 方法，也将看到许多关于相同的例子。让我们开始吧！
 

@@ -1,6 +1,6 @@
 # Numpy Nextafter:如何在 Python 中使用 Numpy Nextafter？
 
-> 原文:# t0]https://www . aspython . com/python-modules/num py/num py-nextafter
+> 原文:# t0]https://www . aspython . com/python-modules/num py/numpy-nextafter
 
 寻找一个函数，返回一个给定数字在另一个数字方向的下一个浮点值？你想用一组数字而不是一个数字来实现同样的功能吗？
 

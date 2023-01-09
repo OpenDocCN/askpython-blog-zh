@@ -1,6 +1,6 @@
 # 计算一个正方形数组的特征值和右特征向量
 
-> 原文:# t0]https://www . aspython . com/python-modules/num py/num py-linalg-EIG
+> 原文:# t0]https://www . aspython . com/python-modules/num py/numpy-linalg-EIG
 
 numpy linalg.eig 函数是一个强大的数学工具，使用户能够计算一个正方形数组的特征值和右特征向量。科学家和数学家在从物理和工程到经济和金融的各个领域都使用这个函数。
 

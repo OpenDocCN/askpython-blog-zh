@@ -1,6 +1,6 @@
 # NumPy div mod–返回元素的商和余数
 
-> 原文:# t0]https://www . aspython . com/python-modules/num py/num py-divmod
+> 原文:# t0]https://www . aspython . com/python-modules/num py/numpy-divmod
 
 你好，欢迎来到这个关于 Numpy divmod 的教程。在本教程中，我们将学习 **NumPy divmod()** 方法，也将看到许多关于相同的例子。让我们开始吧！
 

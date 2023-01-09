@@ -1,6 +1,6 @@
 # NumPy arc cosh–完整指南
 
-> 原文:# t0]https://www . aspython . com/python-modules/num py/num py-arccosh
+> 原文:# t0]https://www . aspython . com/python-modules/num py/numpy-arccosh
 
 读者你好！欢迎来到另一个关于 NumPy 数学函数的教程。在本教程中，我们将理解 NumPy arccosh 函数，并练习许多例子。我们还将使用 Matplotlib 库绘制图形。
 

@@ -1,6 +1,6 @@
 # NumPy linalg . det–计算给定数组的行列式
 
-> 原文:# t0]https://www . aspython . com/python-modules/num py/num py-linalg-det
+> 原文:# t0]https://www . aspython . com/python-modules/num py/numpy-linalg-det
 
 你好，欢迎来到这个关于 **Numpy linalg.det** 的教程。在本教程中，我们将学习 **NumPy linalg.det()** 方法，也将看到许多关于相同的例子。让我们开始吧！
 

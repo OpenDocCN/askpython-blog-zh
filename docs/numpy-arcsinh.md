@@ -1,6 +1,6 @@
 # NumPy Arcsinh–完整指南
 
-> 原文:# t0]https://www . aspython . com/python-modules/num py/num py-arcsinh
+> 原文:# t0]https://www . aspython . com/python-modules/num py/numpy-arcsinh
 
 欢迎来到另一个关于 NumPy arcsinh 函数的精彩教程。在这里，我们将详细了解 NumPy arcsinh 函数。没有任何进一步的到期让我们开始吧！
 

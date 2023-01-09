@@ -1,6 +1,6 @@
 # NumPy real 和 NumPy imag 完全指南
 
-> 原文:# t0]https://www . aspython . com/python-modules/num py/num py-real-num py-imag
+> 原文:# t0]https://www . aspython . com/python-modules/num py/numpy-real-numpy-imag
 
 嘿大家，欢迎回到另一个令人兴奋的 NumPy 教程。
 

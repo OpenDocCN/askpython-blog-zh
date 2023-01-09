@@ -1,6 +1,6 @@
 # NumPy Amin–使用 NumPy 返回数组元素的最小值
 
-> 原文:# t0]https://www . aspython . com/python-modules/num py/num py-Amin
+> 原文:# t0]https://www . aspython . com/python-modules/num py/numpy-Amin
 
 大家好，欢迎来到这个关于 **Numpy amin** 的教程。在本教程中，我们将学习 **NumPy amin()** 方法，也将看到许多相同的例子。让我们开始吧！
 

@@ -1,6 +1,6 @@
 # NumPy gcd–返回两个数字的最大公约数
 
-> 原文:# t0]https://www . aspython . com/python-modules/num py/num py-gcd
+> 原文:# t0]https://www . aspython . com/python-modules/num py/numpy-gcd
 
 正如我们在前面的练习中看到的， [NumPy 的 lcm 函数](https://www.askpython.com/python-modules/numpy/numpy-lcm)对于寻找两个或更多数字的最小公倍数非常有用，如果我们想要两个或更多数字的最大公约数呢？这就是 numpy gcd 函数发挥作用的地方。两个或多个数的最大公约数(GCD)是能整除这两个数的最大公因数。
 

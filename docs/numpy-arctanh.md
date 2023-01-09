@@ -1,6 +1,6 @@
 # numpy arctanh–反双曲正切元素
 
-> 原文:# t0]https://www . aspython . com/python-modules/num py/num py-arctanh
+> 原文:# t0]https://www . aspython . com/python-modules/num py/numpy-arctanh
 
 今天，我们将学习如何实现反双曲函数的元素方式。这将包括查看公式、函数和所需的库。我们还将学习这个函数的域和范围。最后，我们将有一些在代码片段中实现我们的功能的例子。
 

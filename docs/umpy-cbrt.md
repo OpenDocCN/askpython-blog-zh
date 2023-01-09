@@ -1,6 +1,6 @@
 # numpy。cbrt()–返回元素的立方根
 
-> 原文:# t0]https://www . aspython . com/python-modules/num py/num py-cbrt
+> 原文:# t0]https://www . aspython . com/python-modules/num py/numpy-cbrt
 
 读者你好！欢迎来到另一个关于 NumPy 数学函数的教程。在本教程中，我们将通过各种例子详细介绍 NumPy Cuberoot 函数。
 

@@ -1,6 +1,6 @@
 # NumPy mod——NumPy 中模数运算符的完整指南
 
-> 原文:# t0]https://www . aspython . com/python-modules/num py/num py-mod
+> 原文:# t0]https://www . aspython . com/python-modules/num py/numpy-mod
 
 你好，欢迎来到这个关于 **Numpy mod** 的教程。在本教程中，我们将学习 **NumPy mod()** 方法，也将看到许多关于相同的例子。让我们开始吧！
 

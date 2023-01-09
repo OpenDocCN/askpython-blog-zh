@@ -1,6 +1,6 @@
 # NumPy conj–返回输入数字的复共轭
 
-> 原文:# t0]https://www . aspython . com/python-modules/num py/num py-conj
+> 原文:# t0]https://www . aspython . com/python-modules/num py/numpy-conj
 
 嘿大家，欢迎来到另一个 NumPy 数学函数教程。在本教程中，我们将详细了解 **`NumPy conj`** 功能。
 

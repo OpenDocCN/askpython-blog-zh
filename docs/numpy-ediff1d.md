@@ -1,6 +1,6 @@
 # numpy ediff 1d–数组中连续元素之间的差异
 
-> 原文:# t0]https://www . aspython . com/python-modules/num py/num py-ediff 1d
+> 原文:# t0]https://www . aspython . com/python-modules/num py/numpy-ediff1d
 
 在本文中，我们理解并实现了 NumPy 函数`numpy.ediff1d()`,因为 NumPy 是一个数组处理包 numpy.ediff1d()用于计算数组元素之间的差。
 

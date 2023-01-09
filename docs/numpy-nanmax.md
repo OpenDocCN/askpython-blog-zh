@@ -1,6 +1,6 @@
 # NumPy nan max–忽略任何 nan 的沿轴数组的最大值
 
-> 原文:# t0]https://www . aspython . com/python-modules/num py/num py-nanmax
+> 原文:# t0]https://www . aspython . com/python-modules/num py/numpy-nanmax
 
 你好，欢迎来到这个关于 **Numpy nanmax** 的教程。在本教程中，我们将学习 NumPy `nanmax()`方法，也将看到许多关于这个方法的例子。让我们开始吧！
 

@@ -1,6 +1,6 @@
 # NumPy exp2–完整指南
 
-> 原文:# t0]https://www . aspython . com/python-modules/num py/num py-exp 2
+> 原文:# t0]https://www . aspython . com/python-modules/num py/numpy-exp2
 
 嘿各位，你们都计算过类似于 **2 的 4 次方**或者 **2 的 1 次方**之类的东西吗？例如，为了计算 2 的 4 次方，我们通常将 2 乘以 4 次。那是一个乏味的任务，对吗？所有这些乘法过程花费了大量的时间。嗯，我们可以在几分之一秒内得到输出，甚至不需要经历很长的过程，听起来很令人兴奋🙂
 
