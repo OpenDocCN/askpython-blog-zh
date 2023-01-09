@@ -1,6 +1,6 @@
 # numpy trunc()–按元素返回输入的截断值
 
-> 原文:# t0]https://www . aspython . com/python-modules/num py/num py-truc
+> 原文:# t0]https://www . aspython . com/python-modules/num py/numpy-truc
 
 今天，我们将学习如何使用 trunc()函数在我们的计算机上获得输入的截断值。该函数类似于天花板和地板函数，但是具有稍微不同的域和范围。要使用这个函数，我们需要导入 NumPy 模块。一旦导入了 NumPy，我们就可以使用 trunc()函数来获取任何输入的截断值。
 

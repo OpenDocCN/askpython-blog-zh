@@ -1,6 +1,6 @@
 # Numpy linspace()方法
 
-> 原文:# t0]https://www . aspython . com/python-modules/num py/num py-linspace-python
+> 原文:# t0]https://www . aspython . com/python-modules/num py/numpy-linspace-python
 
 在本文中，我们将看看 **`Numpy linspace()`** 功能。 **Python NumPy 模块**有不同的函数来操作数组并对其中的元素执行操作。
 

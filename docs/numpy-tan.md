@@ -1,6 +1,6 @@
 # NumPy Tan 完整指南
 
-> 原文:# t0]https://www . aspython . com/python-modules/num py/num py-tan
+> 原文:# t0]https://www . aspython . com/python-modules/num py/numpy-tan
 
 欢迎来到系列 [NumPy 三角函数](https://www.askpython.com/python/numpy-trigonometric-functions)的第三篇教程。在本教程中，我们将了解 NumPy Tan 函数。**切线**是**切线**的简称。
 

@@ -1,6 +1,6 @@
 # Python np.argmax()函数
 
-> 原文:# t0]https://www . aspython . com/python-modules/num py/num py-argmax
+> 原文:# t0]https://www . aspython . com/python-modules/num py/numpy-argmax
 
 NumPy (np)是最流行的数学和科学计算库之一。它提供了许多处理多维数组的函数。在本文中，我们将重点介绍 **Python np.argmax()函数**。
 

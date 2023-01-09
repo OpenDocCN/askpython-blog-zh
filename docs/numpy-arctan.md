@@ -1,6 +1,6 @@
 # NumPy Arctan–完整指南
 
-> 原文:# t0]https://www . aspython . com/python-modules/num py/num py-arctan
+> 原文:# t0]https://www . aspython . com/python-modules/num py/numpy-arctan
 
 读者你好！在本教程中，我们将通过大量的例子了解 NumPy arctan 函数，我们还将使用 Matplotlib 库绘制**的图形**arctan**函数。**
 

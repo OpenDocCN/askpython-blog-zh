@@ -1,6 +1,6 @@
 # NumPy nan sum–完整指南
 
-> 原文:# t0]https://www . aspython . com/python-modules/num py/num py-nansum
+> 原文:# t0]https://www . aspython . com/python-modules/num py/numpy-nansum
 
 你好，欢迎来到这个关于 **Numpy nansum** 的教程。在本教程中，我们将学习 NumPy `nansum()`方法，也将看到许多关于这个方法的例子。让我们开始吧！
 

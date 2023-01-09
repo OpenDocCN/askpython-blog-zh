@@ -1,6 +1,6 @@
 # numpy ceil–返回输入的上限，以元素为单位
 
-> 原文:# t0]https://www . aspython . com/python-modules/num py/num py-ceil
+> 原文:# t0]https://www . aspython . com/python-modules/num py/numpy-ceil
 
 在本教程中，我们今天将讨论如何返回输入的上限。这将通过使用 python 和 google collab 来完成。回想一下，你年轻的时候可能尝试过最大整数函数和最小整数函数。ceil 函数是最小的整数函数，而 floor 函数是最大的整数函数。我们将在今天的代码片段中实现所有这些。让我们开始吧。
 

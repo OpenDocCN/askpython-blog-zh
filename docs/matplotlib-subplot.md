@@ -1,6 +1,6 @@
 # Matplotlib 子图–使用 Matplotlib 绘制多个图形
 
-> 原文:# t0]https://www . aspython . com/python-modules/matplot lib/matplot lib-subplot[
+> 原文:# t0]https://www . aspython . com/python-modules/matplotlib/matplotlib-subplot
 
 在本文中，我们将学习如何创建 Matplotlib 支线剧情。
 

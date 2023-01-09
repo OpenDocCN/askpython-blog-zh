@@ -1,6 +1,6 @@
 # Python Matplotlib 教程
 
-> 原文:# t0]https://www . aspython . com/python-modules/matplot lib/python-matplot lib
+> 原文:# t0]https://www . aspython . com/python-modules/matplotlib/python-matplotlib
 
 Python Matplotlib 是一个基本服务于**数据可视化**目的的库。Matplotlib 库的构建块是二维 NumPy 数组。
 

@@ -1,6 +1,6 @@
 # NumPy arctan 2–完整指南
 
-> 原文:# t0]https://www . aspython . com/python-modules/num py/num py-arctan 2
+> 原文:# t0]https://www . aspython . com/python-modules/num py/numpy-arctan2
 
 读者你好！欢迎学习 NumPy Arctan2 教程。在本教程中，我们将了解 NumPy 库提供的一个特殊三角函数，即 arctan2。让我们开始吧。
 

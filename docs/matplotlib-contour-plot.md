@@ -1,6 +1,6 @@
 # Matplotlib 等高线图–完整参考
 
-> 原文:# t0]https://www . aspython . com/python-modules/matplot lib/matplot lib-contour-plot
+> 原文:# t0]https://www . aspython . com/python-modules/matplotlib/matplotlib-contour-plot
 
 在本文中，我们将学习如何使用 contour 函数和 Matpotlib 在 Python 中创建等值线图。我们将了解不同类型的绘图功能以及通过它们创建的不同类型的绘图。我们还将查看代码以及如何使用它的详细解释。
 

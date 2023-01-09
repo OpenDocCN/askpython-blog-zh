@@ -1,6 +1,6 @@
 # NumPy Cos–完整指南
 
-> 原文:# t0]https://www . aspython . com/python-modules/num py/num py-cos
+> 原文:# t0]https://www . aspython . com/python-modules/num py/numpy-cos
 
 欢迎来到 [**NumPy 三角函数**](https://www.askpython.com/python/numpy-trigonometric-functions) 系列第二教程。在本教程中，我们将了解 NumPy Cos 函数。
 

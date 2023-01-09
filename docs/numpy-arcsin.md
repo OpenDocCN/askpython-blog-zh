@@ -1,6 +1,6 @@
 # NumPy Arcsin-完全指南
 
-> 原文:# t0]https://www . aspython . com/python-modules/num py/num py-arcsin
+> 原文:# t0]https://www . aspython . com/python-modules/num py/numpy-arcsin
 
 读者你好！欢迎来到系列 [NumPy 三角函数](https://www.askpython.com/python/numpy-trigonometric-functions)的第四篇教程。从本教程开始，我们将从 NumPy 库提供的反三角函数开始。
 

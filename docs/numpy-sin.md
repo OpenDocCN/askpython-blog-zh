@@ -1,6 +1,6 @@
 # Numpy Sin 完全指南
 
-> 原文:# t0]https://www . aspython . com/python-modules/num py/num py-sin
+> 原文:# t0]https://www . aspython . com/python-modules/num py/numpy-sin
 
 这是系列 [**NumPy 三角函数**](https://www.askpython.com/python/numpy-trigonometric-functions) 的第一个教程。在这门课中，我们将通过例子学习 NumPy 库提供的三角函数。
 

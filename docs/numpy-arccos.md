@@ -1,6 +1,6 @@
 # NumPy Arccos-完全指南
 
-> 原文:# t0]https://www . aspython . com/python-modules/num py/num py-arccos
+> 原文:# t0]https://www . aspython . com/python-modules/num py/numpy-arccos
 
 读者你好！在本教程中，我们将理解 **NumPy arccos** 函数以及大量的例子。我们还将绘制`arccos`函数的曲线。那么，我们开始吧。
 
